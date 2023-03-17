@@ -16,7 +16,7 @@
 
 ### CSAPP from XJTU
 
-- [datalab](datalab.md)
+- [DataLab](datalab.md)
 
 ## 联系我
 
